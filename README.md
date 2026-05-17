@@ -2,7 +2,7 @@
 <p align="center">
   <a href="https://youtu.be/URr2WkQa1V4?si=r3an5kJ09Gu4hK6e" target="_blank">
     <img 
-      src="https://private-user-images.githubusercontent.com/142152441/593657931-71f0ab0b-07cd-4868-ba1d-2ec92d92b51e.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Nzg5OTYyNzUsIm5iZiI6MTc3ODk5NTk3NSwicGF0aCI6Ii8xNDIxNTI0NDEvNTkzNjU3OTMxLTcxZjBhYjBiLTA3Y2QtNDg2OC1iYTFkLTJlYzkyZDkyYjUxZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNTE3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDUxN1QwNTMyNTVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mYTRmNWMwNDRiNzE3ZTRkZjNkYjZhYjJmYzkxYjFlZjJmYWRjZGFmMWMwNDQ2NjEzYThkMzdmYjFhOTg2OTNkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.unulw8B8FNQX68sGhAfK3KLeXQPZU3JjkotGo0_mOfE"
+      src="593657931-71f0ab0b-07cd-4868-ba1d-2ec92d92b51e.png"
       alt="Watch Video"
       width="700"
     />
