@@ -111,7 +111,29 @@
 - The jamming effects are **temporary and reversible** by stopping the attack, allowing devices to reconnect normally.
 
 ---
+# 🛒 Components Purchase Links
 
+| Component | Description | Buy Link |
+|------------|-------------|-----------|
+| ESP32 | WiFi + Bluetooth Microcontroller Development Board | [Buy Now](https://amzn.to/4dhowbO) |
+| NRF24L01 | 2.4GHz Wireless Transceiver Module | [Buy Now](https://amzn.to/4nzxSTT) |
+| 0.96-inch OLED Display Module | 4-Pin I2C OLED Display Screen | [Buy Now](https://amzn.to/4nxZj0d) |
+
+---
+
+## 📦 Components Used in This Project
+
+- ESP32 Development Board  
+- NRF24L01 Wireless Communication Module  
+- 0.96-inch OLED I2C Display  
+
+---
+
+## 🔗 Quick Access Links
+
+- ESP32 → https://amzn.to/4dhowbO  
+- NRF24L01 → https://amzn.to/4nzxSTT  
+- OLED Display → https://amzn.to/4nxZj0d  
 ### Ethical Disclaimer
 
 - The video stresses **not to use this device to harm or disrupt unauthorized networks**.  
